@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532513795521",
+    "project_id": "semesterproject-74b73",
+    "storage_bucket": "semesterproject-74b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532513795521:android:91e6beabca909fff539340",
+        "android_client_info": {
+          "package_name": "com.example.car_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE6HL8e5JrRXxD2Or8XFhPtnWbgtehUvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
